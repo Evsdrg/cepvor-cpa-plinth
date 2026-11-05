@@ -1,0 +1,9 @@
+# Plugin build artefacts
+*.so
+*.dll
+*.dylib
+*.h
+
+# Editor
+.idea/
+.vscode/
